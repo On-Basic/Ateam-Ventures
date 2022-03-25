@@ -62,7 +62,7 @@
 
 ### (민지연)
 
-☑️ json-server & dev-server 세팅하여 가상의 데이터 서버를 구성할 수 있도록 구현
+☑️ json-server&dev-server 세팅(concurrently)하여 가상의 데이터 서버 구성
 
 ☑️ json-server로 mock rest-api server 연동
 
@@ -70,11 +70,13 @@
 
 ☑️ theme, global style 지정
 
-☑️ 대시보드 메인 UI 스타일링
+☑️ 대시보드 메인보드 UI 스타일링
 
-☑️ 대시보드 메인 반응형 UI 스타일링
+☑️ 대시보드 카드 UI 스타일링
 
 ☑️ 대시보드 Modal UI 및 기능 구현
+
+☑️ 대시보드 메인 반응형 UI 스타일링
 
 ☑️ heroku를 이용한 json-server 배포
 
@@ -112,8 +114,6 @@
 
 ![모바일 버전 모달](https://user-images.githubusercontent.com/53133662/153101561-95d3fc9c-9b9a-4907-8f04-3d7273f4c820.gif)
 
-## 프로젝트 과정 소개
-
 ## 과제 후기
 
 ### 🙋‍♀️ 박서윤
@@ -134,7 +134,7 @@ typescript를 처음 경험해본 프로젝트였다. 간단한 프로젝트였�
 
 ### 🙋‍♀️ 민지연
 
-[프로젝트 회고](https://velog.io/@ichbinmin2/원티드-프리온보딩-프론트엔드-과정-3차-과제-견적-요청-페이지)
+[✍🏻 프로젝트 회고 보러가기!](https://velog.io/@ichbinmin2/원티드-프리온보딩-프론트엔드-과정-3차-과제-견적-요청-페이지)
 
 <br/>
 
